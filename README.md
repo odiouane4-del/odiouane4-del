@@ -25,8 +25,8 @@ I'm a first-year Data Engineering student exploring both **Data Engineering** an
 
 ## 📫 Reach Me
 
-- LinkedIn: [your-linkedin-url]
-- Email: your.email@example.com
+- LinkedIn:https://www.linkedin.com/in/omar-diouane-6aa964388?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Email: odiouane4@gmail.com
 
 ## 📊 GitHub Stats
 
